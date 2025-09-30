@@ -1,0 +1,37 @@
+body{
+background-color: black;
+}
+h1 {
+  text-align: center;
+  color: rgb(0, 0, 255);
+}
+img {
+  text-align: center;
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto; 
+}
+figcaption {
+  color: blue;
+  text-align: center;
+}
+h3 {
+  color: rgb(0, 0, 255);
+  text-align: center;
+}
+ul {
+  color: rgb(0, 0, 255);
+}
+ui {
+  color: rgb(0, 0, 255);
+  text-align: center;
+}
+bs {
+  color: rgb(0, 0, 255);
+}
+bs2 {
+  color: rgb(0, 0, 255);
+}
