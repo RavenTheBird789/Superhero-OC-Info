@@ -32,6 +32,3 @@ ui {
 bs {
   color: rgb(0, 0, 255);
 }
-bs2 {
-  color: rgb(0, 0, 255);
-}
