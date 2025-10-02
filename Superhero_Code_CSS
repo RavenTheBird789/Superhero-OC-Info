@@ -25,10 +25,6 @@ h3 {
 ul {
   color: rgb(0, 0, 255);
 }
-ui {
-  color: rgb(0, 0, 255);
-  text-align: center;
-}
 bs {
   color: rgb(0, 0, 255);
 }
