@@ -17,7 +17,7 @@
      </figure>
      <section id="student-info">
      <h3 id="headline">Information</h3>
-     <ui>
+     <ul>
       <li><strong>Name:</strong> Aiden Barrero</li>
       <li><strong>Aliases:</strong> Electrolighter (Current), Nocturnal (Former)</li>
       <li><strong>Age:</strong> 19</li>
@@ -27,7 +27,7 @@
       <li><strong>Eye Color:</strong> Brown</li>
       <li><strong>Hair Color:</strong> Brown</li>
       <li><strong>Height:</strong> 6' 2"</li>
-     </ui>
+     </ul>
      </section>
      <section id="student-background">
      <h3 id="headline2">Background</h3>
@@ -43,9 +43,9 @@
      <section>
      <h3> </h3>
      </section>
-     <bs2>
+     <bs>
        However, by the time Aiden was 16, he dropped the Nocturnal alias in favor of the more family friendly and squeaky clean alias of Electrolighter courtesy of Vought who awarded him a full-ride scholarship to Godolkin University due to a combination of academic prowess and a good track record of crime-fighting.
-     </bs2>
+     </bs>
      </section>
      <section id="student-pa">
        <h3 id="headline3">Powers and Abilities</h3>
