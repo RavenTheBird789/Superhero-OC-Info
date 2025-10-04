@@ -15,64 +15,60 @@
         Image of Electrolighter (Aiden Barrero) in his Super Suit designed by <a href="https://www.imdb.com/name/nm0788320/">Laura Jean Shannon</a>  
       </figcaption>
      </figure>
+     <div>
      <section id="student-info">
      <h3 id="headline">Information</h3>
-     <si>
-      <li><strong>Name:</strong> Aiden Barrero</li>
-      <li><strong>Aliases:</strong> Electrolighter (Current), Nocturnal (Former)</li>
-      <li><strong>Age:</strong> 19</li>
-      <li><strong>DOB:</strong> 3/15/06</li>
-      <li><strong>Ethnicity:</strong> White Hispanic</li>
-      <li><strong>Sex:</strong> Male</li>
-      <li><strong>Eye Color:</strong> Brown</li>
-      <li><strong>Hair Color:</strong> Brown</li>
-      <li><strong>Height:</strong> 6' 2"</li>
-     </si>
+     <p1 class="student-info">      
+       <li><strong>Name:</strong> Aiden Barrero</li>
+       <li><strong>Aliases:</strong> Electrolighter (Current), Nocturnal (Former)</li>
+       <li><strong>Age:</strong> 19</li>
+       <li><strong>DOB:</strong> 3/15/06</li>
+       <li><strong>Ethnicity:</strong> White Hispanic</li>
+       <li><strong>Sex:</strong> Male</li>
+       <li><strong>Eye Color:</strong> Brown</li>
+       <li><strong>Hair Color:</strong> Brown</li>
+       <li><strong>Height:</strong> 6' 2"</li>
+     </p1>
      </section>
+     </div>
+
+     <div>
      <section id="student-background">
      <h3 id="headline2">Background</h3>
-     <bs>
-     Aiden was born in Jersey City, New Jersey to Christina and Pablo Barrero in 2006. Soon after his birth, his parents, who were struggling financially at the time, agreed to allow <a href="https://the-boys.fandom.com/wiki/Vought_International">Vought</a> to inject Aiden with <a href="https://the-boys.fandom.com/wiki/Compound_V">Compound V</a> in exhange for a large sum of money. This effectively transformed him into a <a href="https://the-boys.fandom.com/wiki/Supes">Supe</a>. Years later, Aidens powers manifested in his pre-teens. During this period and well into his teenage years, he fought crime at night under the alias of Nocturnal while soley relying on his superhuman strength and durability to do so as he understood that even if the people he was fighting were criminals, they were still human and couldn't really hurt him. Therefore, it was his responsibily to practice self-control and only use force when neccesary.
-     </bs>
-     <h3> </h3>
-     <h3> </h3>
+     <p>Aiden was born in Jersey City, New Jersey to Christina and Pablo Barrero in 2006. Soon after his birth, his parents, who were struggling financially at the time, agreed to allow <a href="https://the-boys.fandom.com/wiki/Vought_International">Vought</a> to inject Aiden with <a href="https://the-boys.fandom.com/wiki/Compound_V">Compound V</a> in exhange for a large sum of money. This effectively transformed him into a <a href="https://the-boys.fandom.com/wiki/Supes">Supe</a>. Years later, Aidens powers manifested in his pre-teens. During this period and well into his teenage years, he fought crime at night under the alias of Nocturnal while soley relying on his superhuman strength and durability to do so as he understood that even if the people he was fighting were criminals, they were still human and couldn't really hurt him. Therefore, it was his responsibily to practice self-control and only use force when neccesary.</p>
+     </div>
+
      <childhoodphoto id="nocturnal-pic">
      <img id="image" src="https://64.media.tumblr.com/aa8ac39a86fd08d5592ee0611b7f3849/94f3586b6c283d6d-8f/s540x810/cb805db6be350924afafa17263b66c533aeff7f9.jpg" alt="Image of student as a teenager"/>
 <figcaption id="image-caption">Image of Aiden Barrero at 14 as Nocturnal in Jersey City</figcaption>
      </childhoodphoto>
+     
+     <div>
      <section>
-     <h3> </h3>
+     <p>However, by the time Aiden was 16, he dropped the Nocturnal alias in favor of the more family friendly and squeaky clean alias of Electrolighter courtesy of Vought who awarded him a full-ride scholarship to Godolkin University due to a combination of academic prowess and a good track record of crime-fighting.</p>
      </section>
-     <bs>
-       However, by the time Aiden was 16, he dropped the Nocturnal alias in favor of the more family friendly and squeaky clean alias of Electrolighter courtesy of Vought who awarded him a full-ride scholarship to Godolkin University due to a combination of academic prowess and a good track record of crime-fighting.
-     </bs>
-     </section>
+     </div>
+
+     <div>
      <section id="student-pa">
        <h3 id="headline3">Powers and Abilities</h3>
        <ul>
-         <li>
-<strong>Electrokinesis</strong> - Aidens main ability, which he uses effectively in combat against primarily other supes.</li>
-<li>
-<strong>Electromagnetism Manipulation</strong>
-- Using his electrokinetic blasts, Aiden can control magnetic fields, metals, and non-ferrous materials. This allows him to move metal objects, generate magnetic force fields, and move people in any direction with hand movements while blasting them with electricity in a manner similar to <a href="https://the-boys.fandom.com/wiki/Stormfront">Stormfront</a>.</li>
-         <li>
-<strong>Electromagnetic Flight</strong>
-          - Like <a href="https://the-boys.fandom.com/wiki/Homelander">Homelander</a>, Stormfront, and <a href="https://the-boys.fandom.com/wiki/Starlight">Starlight</a>, Aiden has the ability to levitate and propel himself through the air at great speeds. He does this through the use of electromagnetic fields.
-         </li>
-         <li> <strong>Electricity Absorption/Electromagnetic Interference</strong>
-         - Similar to Starlight, Aiden has the ability to drain energy from nearby sources of electricity to amplify his powers.</li>
-  <li><strong>Superhuman Strength</strong> - Aiden possesses superhuman strength, which makes him stronger than humans and most supes.</li>       
-  <li><strong>Superhuman Durability</strong> - Aiden possesses superhuman durability, making him more durable than humans and most supes. This applies to blunt-force trauma and renders him completely bulletproof.</li>        
-  <li><strong>Regenerative Healing Factor</strong> - Aiden possesses a limited, but rapid regenerative healing ability. This allows him to recover from any damage inflicted on him in a short time with no sign of prior injury being left behind afterwards.</li>
-  <li><strong>Gifted Intelligence</strong> - Aiden is a highly intelligent individual. He managed to skip a grade and enroll at Godolkin University at only 16 with a full-ride scholarship. He's also knowledgable with technology and electronics.</li>
-         <li> <strong>Superhuman Hearing</strong> - Like all supes, Aiden can hear higher frequencies that humans cannot.
-         </li>
+         <li><strong>Electrokinesis</strong> - Aidens main ability, which he uses effectively in combat against primarily other supes.</li>
+         <li><strong>Electromagnetism Manipulation</strong> - Using his electrokinetic blasts, Aiden can control magnetic fields, metals, and non-ferrous materials. This allows him to move metal objects, generate magnetic force fields, and move people in any direction with hand movements while blasting them with electricity in a manner similar to <a href="https://the-boys.fandom.com/wiki/Stormfront">Stormfront</a>.</li>
+         <li><strong>Electromagnetic Flight</strong> - Like <a href="https://the-boys.fandom.com/wiki/Homelander">Homelander</a>, Stormfront, and <a href="https://the-boys.fandom.com/wiki/Starlight">Starlight</a>, Aiden has the ability to levitate and propel himself through the air at great speeds. He does this through the use of electromagnetic fields.</li>
+         <li><strong>Electricity Absorption/Electromagnetic Interference</strong> - Similar to Starlight, Aiden has the ability to drain energy from nearby sources of electricity to amplify his powers.</li>
+         <li><strong>Superhuman Strength</strong> - Aiden possesses superhuman strength, which makes him stronger than humans and most supes.</li>       
+         <li><strong>Superhuman Durability</strong> - Aiden possesses superhuman durability, making him more durable than humans and most supes. This applies to blunt-force trauma and renders him completely bulletproof.</li>        
+         <li><strong>Regenerative Healing Factor</strong> - Aiden possesses a limited, but rapid regenerative healing ability. This allows him to recover from any damage inflicted on him in a short time with no sign of prior injury being left behind afterwards.</li>
+         <li><strong>Gifted Intelligence</strong> - Aiden is a highly intelligent individual. He managed to skip a grade and enroll at Godolkin University at only 16 with a full-ride scholarship. He's also knowledgable with technology and electronics.</li>
+         <li><strong>Superhuman Hearing</strong> - Like all supes, Aiden can hear higher frequencies that humans cannot.</li>
        </ul>
      </section>
+     </div>
+
+     <div>
      <section id="student weaknesses">
-       <h3>
-         Weaknesses
-       </h3>
+       <h3>Weaknesses</h3>
        <ul>
        <li><strong>Blunt Force/Limited Durability</strong> - Although Aiden may be bulletproof and extremely durable, he's not invulnerable and other Supes with extreme strength are able to hurt, stun, and knock him unconscious, such as <a href="https://the-boys.fandom.com/wiki/Sam_Riordan">Sam Riordan</a>, <a href="https://the-boys.fandom.com/wiki/Jordan_Li">Jordan Li</a>, and <a href="https://the-boys.fandom.com/wiki/Soldier_Boy">Soldier Boy</a>.</li>
        <li><strong>Limited Regeneration</strong> - Though Aiden does possess an accelerated healing factor superior to that of humans and most supes, he has limits as to what can heal. For example, similar to <a href="https://the-boys.fandom.com/wiki/Cate_Dunlap">Cate Dunlap</a>, he can't regrow limbs once they're gone.</li>
@@ -80,6 +76,7 @@
        <li><strong>High Frequencies</strong> - Due to being a Supe, Aiden is susceptible to high frequencies. When a high frequency is playing, it can induce immense pain and temporarily neutralize him.</li>
        </ul>
      </section>
+     </div>
   </body>
 </head>
 </html>
