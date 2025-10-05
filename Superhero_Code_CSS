@@ -5,7 +5,7 @@ background-color: black;
   text-align: center;
   color: blue;
 }
-.img {
+.image {
   max-width: 100%;
   display: block;
   height: auto;
@@ -13,6 +13,11 @@ background-color: black;
 }
 .img-div {
   text-align: center;
+  margin: 20px 0;
+}
+.img-caption {
+  text-align: center;
+  color: blue;
 }
 figcaption {
   text-align: center;
@@ -21,6 +26,7 @@ figcaption {
 .section-title {
   text-align: center;
   color: blue;
+  margin-top: 40px;
 }
 #student-info {
   text-align: center;
