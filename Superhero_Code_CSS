@@ -5,12 +5,14 @@ background-color: black;
   text-align: center;
   color: blue;
 }
-img {
+.img {
   max-width: 100%;
   display: block;
   height: auto;
-  margin: 0 auto;
-  text-align: center; 
+  margin: 0 auto; 
+}
+.img-div {
+  text-align: center;
 }
 figcaption {
   text-align: center;
