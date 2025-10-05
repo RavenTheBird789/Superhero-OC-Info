@@ -1,34 +1,33 @@
-body{
+body {
 background-color: black;
 }
-h1 {
+#title {
   text-align: center;
   color: blue;
-}
-img {
-  text-align: center;
 }
 img {
   max-width: 100%;
   display: block;
   height: auto;
-  margin: 0 auto; 
+  margin: 0 auto;
+  text-align: center; 
 }
 figcaption {
   text-align: center;
   color: blue;
 }
-h3 {
+.section-title {
   text-align: center;
   color: blue;
 }
-si {
+#student-info {
+  text-align: center;
+  color: blue;
+}
+p {
   text-align: center;
   color: blue;
 }
 ul {
-  color: blue;
-}
-bs {
   color: blue;
 }
