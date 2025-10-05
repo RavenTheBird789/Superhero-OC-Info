@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">  
 <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Browser</title>
   <link rel="stylesheet" href="styles.css">
+</head>
   <body>
     <main id="main">
     <h1 id="title"><a href="https://www.godolkinuniversity.com/">Godolkin University</a> Case File #000229169</h1>
-     <figure id="img-div">
-        <img id="image" src="https://64.media.tumblr.com/b688034e936d3d1b59119e871be1e278/c376f4f39e72ea36-39/s540x810/e992294728ff80641b8aeab5bcbec948066b32ec.jpg" alt="Image of the student Aiden Barrero"/>
+     <figure class="img-div">
+        <img class="image" src="https://64.media.tumblr.com/b688034e936d3d1b59119e871be1e278/c376f4f39e72ea36-39/s540x810/e992294728ff80641b8aeab5bcbec948066b32ec.jpg" alt="Image of the student Aiden Barrero"/>
       <figcaption id="img-caption">Image of Electrolighter (Aiden Barrero) in his Super Suit designed by <a href="https://www.imdb.com/name/nm0788320/">Laura Jean Shannon</a></figcaption>
      </figure>
      <div>
@@ -24,24 +29,20 @@
      </section>
      </div>
 
-     <div>
      <section>
      <h3 class="section-title">Background</h3>
      <p>Aiden was born in Jersey City, New Jersey to Christina and Pablo Barrero in 2006. Soon after his birth, his parents, who were struggling financially at the time, agreed to allow <a href="https://the-boys.fandom.com/wiki/Vought_International">Vought</a> to inject Aiden with <a href="https://the-boys.fandom.com/wiki/Compound_V">Compound V</a> in exhange for a large sum of money. This effectively transformed him into a <a href="https://the-boys.fandom.com/wiki/Supes">Supe</a>. Years later, Aidens powers manifested in his pre-teens. During this period and well into his teenage years, he fought crime at night under the alias of Nocturnal while soley relying on his superhuman strength and durability to do so as he understood that even if the people he was fighting were criminals, they were still human and couldn't really hurt him. Therefore, it was his responsibily to practice self-control and only use force when neccesary.</p>
-     </div>
+     </section>
 
-     <figure id="img-div">
-     <img id="image" src="https://64.media.tumblr.com/aa8ac39a86fd08d5592ee0611b7f3849/94f3586b6c283d6d-8f/s540x810/cb805db6be350924afafa17263b66c533aeff7f9.jpg" alt="Image of student as a teenager"/>
+     <figure class="img-div">
+     <img class="image" src="https://64.media.tumblr.com/aa8ac39a86fd08d5592ee0611b7f3849/94f3586b6c283d6d-8f/s540x810/cb805db6be350924afafa17263b66c533aeff7f9.jpg" alt="Image of student as a teenager"/>
      <figcaption id="image-caption">Image of Aiden Barrero at 14 as Nocturnal in Jersey City</figcaption>
      </figure>
      
-     <div>
      <section>
      <p>However, by the time Aiden was 16, he dropped the Nocturnal alias in favor of the more family friendly and squeaky clean alias of Electrolighter courtesy of Vought who awarded him a full-ride scholarship to Godolkin University due to a combination of academic prowess and a good track record of crime-fighting.</p>
      </section>
-     </div>
 
-     <div>
      <section>
        <h3 class="section-title">Powers and Abilities</h3>
        <ul>
@@ -57,9 +58,7 @@
          </li>
        </ul>
      </section>
-     </div>
 
-     <div>
      <section>
        <h3 class="section-title">Weaknesses</h3>
        <ul>
@@ -69,7 +68,5 @@
        <li><strong>High Frequencies</strong> - Due to being a Supe, Aiden is susceptible to high frequencies. When a high frequency is playing, it can induce immense pain and temporarily neutralize him.</li>
        </ul>
      </section>
-     </div>
   </body>
-</head>
 </html>
