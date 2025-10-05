@@ -12,7 +12,7 @@
     <h1 id="title"><a href="https://www.godolkinuniversity.com/">Godolkin University</a> Case File #000229169</h1>
      <figure class="img-div">
         <img class="image" src="https://64.media.tumblr.com/b688034e936d3d1b59119e871be1e278/c376f4f39e72ea36-39/s540x810/e992294728ff80641b8aeab5bcbec948066b32ec.jpg" alt="Image of the student Aiden Barrero"/>
-      <figcaption id="img-caption">Image of Electrolighter (Aiden Barrero) in his Super Suit designed by <a href="https://www.imdb.com/name/nm0788320/">Laura Jean Shannon</a></figcaption>
+      <figcaption class="img-caption">Image of Electrolighter (Aiden Barrero) in his Super Suit designed by <a href="https://www.imdb.com/name/nm0788320/">Laura Jean Shannon</a></figcaption>
      </figure>
      <div>
      <section id="student-info">
@@ -36,7 +36,7 @@
 
      <figure class="img-div">
      <img class="image" src="https://64.media.tumblr.com/aa8ac39a86fd08d5592ee0611b7f3849/94f3586b6c283d6d-8f/s540x810/cb805db6be350924afafa17263b66c533aeff7f9.jpg" alt="Image of student as a teenager"/>
-     <figcaption id="image-caption">Image of Aiden Barrero at 14 as Nocturnal in Jersey City</figcaption>
+     <figcaption class="image-caption">Image of Aiden Barrero at 14 as Nocturnal in Jersey City</figcaption>
      </figure>
      
      <section>
