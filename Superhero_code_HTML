@@ -3,8 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="style.css" />
-  <title>Browser</title>
+  <title>Godolkin University Case File #000229169</title>
   <link rel="stylesheet" href="styles.css">
 </head>
   <body>
@@ -14,7 +13,6 @@
         <img class="image" src="https://64.media.tumblr.com/b688034e936d3d1b59119e871be1e278/c376f4f39e72ea36-39/s540x810/e992294728ff80641b8aeab5bcbec948066b32ec.jpg" alt="Image of the student Aiden Barrero"/>
       <figcaption class="img-caption">Image of Electrolighter (Aiden Barrero) in his Super Suit designed by <a href="https://www.imdb.com/name/nm0788320/">Laura Jean Shannon</a></figcaption>
      </figure>
-     <div>
      <section id="student-info">
      <h3 class="section-title">Information</h3>
       <li><strong>Name:</strong> Aiden Barrero</li>
@@ -27,7 +25,6 @@
       <li><strong>Hair Color:</strong> Brown</li>
       <li><strong>Height:</strong> 6' 2"</li>
      </section>
-     </div>
 
      <section>
      <h3 class="section-title">Background</h3>
