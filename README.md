@@ -6,4 +6,4 @@ How to run: Download both files into the same folder and open index.html in your
 
 Appearance: Black background with blue text
 
-Design choices: Superhero OC has Super Suit that's colors correspond to the ones throughout the web page
+Design choices: Superhero OC has Super Suit that's colors correspond to the ones used throughout the web page
